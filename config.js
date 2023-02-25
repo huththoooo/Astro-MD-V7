@@ -14,6 +14,6 @@ FOOTER: process.env.FOOTER === undefined ? 'ᴀꜱᴛʀᴏ-ᴍᴅ ᴘᴜʙʟɪ�
 CAPTION: process.env.CAPTION === undefined ? '*ɢᴇɴᴀʀᴀᴛᴇᴅ ʙʏ ᴀꜱᴛʀᴏ-ᴍᴅ*' : process.env.CAPTION,
 ONLY_GROUP: process.env.ONLY_GROUP === undefined ? 'false' : process.env.ONLY_GROUP,
 INBOX_BL_MSG: process.env.INBOX_BL_MSG === undefined ? '*Inbox not allowed' : process.env.INBOX_BL_MSG,
-HOST: process.env.HOST === undefined ? '-' : process.env.HOST,
-SESSION_ID: process.env.SESSION_ID === undefined ? '' : process.env.SESSION_ID
+HOST: process.env.HOST === undefined ? LASIYA' : process.env.HOST,
+SESSION_ID: process.env.SESSION_ID === undefined ? 'ASTRO=lm5xkTaS#9eqVsyZK05NIrb3aEtZ9GSYEcR8vuWvidYnDxUDYKpU' : process.env.SESSION_ID
 };
